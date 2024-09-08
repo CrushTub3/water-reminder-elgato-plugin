@@ -5,8 +5,8 @@
 	"Description": "A simple reminder to help you keep up with the daily water intake.",
 	"Name": "Water Reminder",
 	"Icon": "assets/app_icon",
-	"URL": "https://carlesbalsach.com",
-	"Version": "1.0.0",
+	"URL": "https://github.com/CarlesBalsach/water-reminder-elgato-plugin/blob/main/README.md",
+	"Version": "1.0.1",
 	"Software": {
 		"MinimumVersion": "5.0"
 	},
