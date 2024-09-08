@@ -1,0 +1,3 @@
+[submodule "src/com.carlesbalsach.waterreminder.sdPlugin/libs"]
+	path = src/com.carlesbalsach.waterreminder.sdPlugin/libs
+	url = https://github.com/elgatosf/streamdeck-javascript-sdk
